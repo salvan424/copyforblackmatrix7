@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-11 02:25:52
+# UPDATED: 2021-06-12 02:10:41
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14746
+# DOMAIN: 14744
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 27937
+# TOTAL: 27935
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -262,6 +262,7 @@
 340ca72733c9e46fb1.com
 34c2f22e9503ace.com
 350media.com
+3585656d9351553f.com
 35d59588f15966.com
 35kds.com
 360366.net
@@ -2665,6 +2666,7 @@ bestdeals.ws
 bestforexplmdb.com
 bestgameads.com
 besthitsnow.com
+besthuaxia.com
 bestmobiworld.com
 bestofferdirect.com
 bestonlinecoupons.com
@@ -3106,7 +3108,6 @@ c.vrvm.com
 c.vserv.mobi
 c.wantxt.cc
 c.xiaobaipan.com
-c.xiaozhuyoupu.com
 c02o3mpych.com
 c10ed2b8b417880.com
 c1313.f28014.cn
@@ -3413,7 +3414,6 @@ cintnetworks.com
 circle.am
 circular-counters.com
 circularhub.com
-citinnoiddidn.pro
 city-ads.de
 cityadspix.com
 citymediamagazin.hu
@@ -5769,6 +5769,7 @@ fwix.com
 fwnowvgk.com
 fxdepo.com
 fxox4wvv.win
+fxsqsng.com
 fxwpmfdapcalu.com
 fy6x8o.cn
 fykmahfa.com
@@ -6485,7 +6486,6 @@ hostave.net
 hostave2.net
 hostave4.net
 hostcontent.live
-hosticanaffiliate.com
 hosting.conduit.com
 hostingcloud.party
 hostingcloud.racing
@@ -7884,7 +7884,6 @@ lugansk-info.ru
 luhtb.top
 lumatag.co.uk
 lumberamount.com
-lumeo.cn
 luminate.com
 lumitos.com
 lumpylumber.com
@@ -7976,7 +7975,6 @@ m.j5s9b.cn
 m.jdhq188.cn
 m.jinhuizhibo.com
 m.maiduoer.com
-m.mcnnic.com
 m.mfufanj.cn
 m.mtmfjdo.cn
 m.nkjfzq43034.cn
@@ -8787,7 +8785,6 @@ naytev.com
 nba.emohe.com
 nbook.far.ru
 nbrwvrqyz.com
-nbstatic.com
 ncaudienceexchange.com
 ncom.dk
 nda3456.com
@@ -9398,7 +9395,6 @@ oultuwee.net
 ounion.openadx.com
 ouo.io
 ouptoobe.net
-oupushee.com
 ournet-analytics.com
 ourstats.de
 oushenoo.net
@@ -9719,6 +9715,7 @@ pipfire.com
 pippio.com
 pippity.com
 pipsol.net
+pirdoust.com
 pistraving.co
 piticlik.com
 pivotrunner.com
@@ -11114,6 +11111,7 @@ sdk.zsdfm.com
 sdkauth.hpplay.cn
 sdkconfig.play.aiseet.atianqi.com
 sdksp.video.qq.com
+sdlzmm.cn
 sdn.scset.com.cn
 sdtld.net
 sdyongyan.com.cn
@@ -12173,7 +12171,6 @@ sumo.com
 sumokoin.com
 sumome.com
 sums.suning.com
-sunderport.com.cn
 sundxs.com
 sunios.de
 sunlux.net
@@ -12222,7 +12219,6 @@ survey.constantcontact.com
 surveyend.com
 surveygizmo.com
 surveyscout.com
-surveyspaid.com
 surveyvalue.mobi
 surveywall-api.survata.com
 surveywriter.com
@@ -14045,6 +14041,7 @@ www-61677.com
 www-path.com
 www-protection.com
 www-sina-cn-com.com
+www.0uk.net
 www.111ol.com
 www.11599jgj.com
 www.1990tu.com
@@ -14581,6 +14578,7 @@ yupfiles.net
 yuppads.com
 yuqi7.top
 yurivideo.com
+yuu360.com
 yvmads.com
 yvoria.com
 yvzgazds6d.com
